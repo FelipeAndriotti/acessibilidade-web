@@ -1,2 +1,2 @@
 # acessibilidade-web
-Projeto Apeperia desenvolvido conforme aulas do curso de acessibilidade web da Alura.
+Apeperia project developed according to the classes of Alura's web accessibility course.
